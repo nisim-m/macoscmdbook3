@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 logo: book.png
-title: ［新版 zsh&bash対応］macOS×コマンド入門
-description: ［新版 zsh&bash対応］macOS×コマンド入門 サポートページ <br />正誤表、補足情報など
+title: <span class="bracket">［改訂新版］</span>macOS×コマンド入門
+description: <span class="bracket">［改訂新版］</span>macOS×コマンド入門 サポートページ
 show_downloads: false
 google_analytics: 
