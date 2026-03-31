@@ -5,7 +5,13 @@
 [Amazon](https://www.amazon.co.jp/exec/obidos/ASIN/4297155796/?ie=UTF8&linkCode=shr&tag=utopia33-22)  
 2026.4.15
 
+## 補足情報
 
+改訂にあたり削除したコラム：
+
+| ページ(旧) | 内容 |
+| ---- | ---- |
+| 6章（p106）| [Column ディレクトリへのシンボリックリンクの補完方法を変更する（bash）](c06-p106#column) | 
 
 
 ## 履歴
