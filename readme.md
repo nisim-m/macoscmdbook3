@@ -1,5 +1,5 @@
 # macoscmdbook3
-[新版 zsh&amp;bash対応]macOS×コマンド入門 サポートページ
+[改訂新版]macOS×コマンド入門 サポートページ
 https://nisim-m.github.io/macoscmdbook3/
 
 ※旧版
